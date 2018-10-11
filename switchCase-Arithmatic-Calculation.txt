@@ -1,0 +1,23 @@
+/*Calculate by Using Switch case */
+#include<stdio.h>
+
+void main(){
+
+int a=20,b=10 ;
+
+
+    printf("Enter Key for Calculation: ");
+    char c;
+    scanf("%c", &c);
+
+    switch(c)
+    {
+
+case '+': printf("Addition:A+B = %d",a+b);break;
+case '-': printf("Subtraction:A-B = %d",a-b);break;
+
+default:
+    printf("Invalid Key");
+    }
+
+}
