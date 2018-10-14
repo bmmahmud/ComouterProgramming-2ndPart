@@ -2,7 +2,7 @@
 # Project Title
 'Computer Programming 2nd part'
 C programming book written in Bengali by Tamim Shahriar Subeen.
-
+Here all the code is written by me follwed by the book for practice perpose.Not all the code is here only thos that i practised.
 কম্পিউটার প্রোগ্রামিং (দ্বিতীয় খণ্ড)
 তামিম শাহ‍্‍রিয়ার সুবিন এর বাংলা ভাষায় কম্পিউটার প্রোগ্রামিং শেখার বই। বইটিতে প্রোগ্রামিং ভাষা হিসেবে সি (C) ব্যবহার করা হয়েছে।
 
