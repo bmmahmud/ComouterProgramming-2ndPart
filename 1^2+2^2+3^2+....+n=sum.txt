@@ -1,0 +1,19 @@
+/*1^2+2^2+3^2+ ...+n= sum */
+
+#include<stdio.h>
+void main()
+{
+    int n,i,sum=0;
+    scanf("%d",&n);//upto or last digit
+    i=1;// initial
+    GO:
+        if(i<n)
+        {
+        printf("%d^2 +",i);
+        sum=sum+(i*i); // 1^2
+        i++;
+        goto GO;
+        }
+        printf(" %d^2 \n",n);// last digit 
+        printf("Sum = %d",sum+(n*n));
+}
